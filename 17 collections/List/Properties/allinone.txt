@@ -1,0 +1,11 @@
+//Properties
+/*1.first.
+2.hashcode.
+3.is empty.
+4.is not empty
+5. iterator.
+6.last
+7.length
+8.reversed
+9.runtimetye
+10.single*/
